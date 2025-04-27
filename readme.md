@@ -84,19 +84,3 @@ Follow these steps to set up the project locally:
 2. Open the frontend URL in your browser to interact with the application.
 
 ---
-
-## Build for Production
-
-To build the frontend for production:
-
-1. Navigate to the client directory:
-
-   ```bash
-   cd client
-   ```
-
-2. Run the build command:
-
-   ```bash
-   npm run build
-   ```
